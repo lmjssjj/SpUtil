@@ -1,4 +1,4 @@
-package com.lmjssjj.sputil
+package com.lmjssjj.sputil.demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
